@@ -16,7 +16,7 @@ author :
   email : junerey.casuga@gmail.com
   github : junereycasuga
   twitter : junereycasuga
-  feedburner : feedname
+  feedburner : atom
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-36469018-1'
     getclicky :
       site_id : 
     mixpanel :
