@@ -73,4 +73,12 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+footer img {
+	height: 20px;
+	padding: 0px 10px 10px 10px;
+}
+
+#rss {
+	height: 20px;
+}
