@@ -77,8 +77,22 @@ html, body {
 footer img {
 	height: 20px;
 	padding: 0px 10px 10px 10px;
+	opacity: 0.5;
+	filter:alpha(opacity=50);
+}
+
+footer img:hover {
+	opacity: 1;
+	filter:alpha(opacity=100);
 }
 
 #rss {
 	height: 20px;
+	opacity: 0.5;
+	filter:alpha(opacity=50);
+}
+
+#rss:hover {
+	opacity: 1;
+	filter:alpha(opacity=100);
 }
