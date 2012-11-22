@@ -9,11 +9,12 @@ tags: [web development, junerey casuga, w3schools, w3fools]
 
 I remember that I always consult W3Schools when I have to know about HTML or Javascript. I’ve used W3Schools as my reference for a long time. Well I’ve been on a wrong place for how many years.
 
-Recently, I saw W3Fools. W3Fools is a website made by the members of the Front-end Dev Community. It has a content where it shows that W3Schools is not a reliable resource when it comes to HTML and Javascript.
+Recently, I saw W3Fools. [W3Fools](http://w3fools.com) is a website made by the members of the Front-end Dev Community. It has a content where it shows that W3Schools is not a reliable resource when it comes to HTML and Javascript.
 
-Now, you’re maybe wondering why W3Schools is a troublesome resource. Well, W3Schools is not affiliated with W3C.(World Wide Web Consortium). W3C is an international community that develops open standards to ensure the long-term growth of the Web. And the worst reason why W3Schools is they frequently publishes inaccurate content.
+Now, you’re maybe wondering why W3Schools is a troublesome resource. Well, W3Schools is not affiliated with [W3C (World Wide Web Consortium)](http://www.w3.org/). W3C is an international community that develops open standards to ensure the long-term growth of the Web. And the worst reason why W3Schools is they frequently publishes inaccurate content.
 
 To show you some of the inaccurate content published by W3Schools, here are some list of the misleading content written by the people from W3Fools:
+
 
 #### HTML
 
@@ -59,6 +60,7 @@ Extension are not necessary at all and if they are present they don't have to be
 
 * W3Fools: This is not true. The heading element's number defines their rank for their importance on the page.
 
+
 #### CSS
 
 [www.w3schools.com/css3/css3_fonts.asp](http://www.w3schools.com/css3/css3_fonts.asp])
@@ -66,6 +68,7 @@ Extension are not necessary at all and if they are present they don't have to be
 * W3Schools: Internet Explorer does not yet support the @font-face rule.
 
 * W3Fools: This is wrong. In fact, Microsoft invented the `@font-face` at-rule.
+
 
 #### JavaScript
 
@@ -78,4 +81,33 @@ Extension are not necessary at all and if they are present they don't have to be
 
 * W3Schools: Each statement is executed by the browser in the sequence they are written.
 
-* W3Fools: This is 
+* W3Fools: This is not exactly true, either, as JavaScript [hoists](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Scope_Cheatsheet#Hoisting) variable and function declarations, meaning that those declarations are not defined in sequence.
+
+[www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax2](http://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax2)
+
+* W3Schools: `async: false`
+
+* W3Fools: The first "A" in AJAX stands for "asynchronous" (or non-blocking). Promoting setting the `async` property to false when calling jQuery's [ajax](http://api.jquery.com/jQuery.ajax/) method without any context in an example that is likely to be copy/pasted around the net is grossly irresponsible.
+
+[www.w3schools.com/js/js_functions.asp](http://www.w3schools.com/js/js_functions.asp)
+
+* W3Schools: If you declare a variable within a function, the variable can only be accessed within that function. When you exit the function, the variable is destroyed.
+
+* W3Fools: The whole concept of closures doesn't exist at W3Schools... Also, they never go over the difference between a function declaration and a function expression. I know this is for beginners, but they could at least put it in the advanced section, or make it apparent that functions are first-class?
+
+[www.w3schools.com/js/js_loop_for.asp](www.w3schools.com/js/js_loop_for.asp)
+
+* W3Schools: `for (var=startvalue;var<=endvalue;var=var+increment)`
+
+* W3Fools: Not only do they forget about using the [`var`](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/var) keyword to prevent the variable from leaking to the global scope, but you can't even use [`var`](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/var) as variable name—it is a reserved word, and this code will generate a SyntaxError.
+
+[www.w3schools.com/js/js_whereto.asp](http://www.w3schools.com/js/js_whereto.asp)
+
+* W3Schools: Scripts in `<head>`
+
+* W3Fools: In older browsers, placing scripts in the `<head>` has a negative impact on page performance. Until the script is done loading, resources below the script are blocked from downloading, and elements below the script are blocked from rendering. So try to put scripts at the bottom of the page, when possible.
+
+
+What a revelation right? If you want to know some more unreliable content published by W3Schools, just visit W3Fools page at [http://w3fools.com](http://w3fools.com). As W3Fools says, "We believe W3Schools is harmful to the web. Web developers deserve better". I am one with them.
+
+Lessons learned? If you want to accelerate your education about web development, learn from the fine resources like [WebPlatform.org](http://webplatform.org/), [Opera Web Standards Curriculum](http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc), [Google's HTML, CSS, and Javascript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/), [SitePoint](http://reference.sitepoint.com/), and the [MDN (Mozzilla's Developer Network)](https://developer.mozilla.org/en-US/docs). And to contribute to the community, spread the word. Spred the W3Fools way.
