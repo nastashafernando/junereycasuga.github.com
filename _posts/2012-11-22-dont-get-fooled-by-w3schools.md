@@ -3,7 +3,7 @@ layout: post
 title: "Don't Get Fooled by W3Schools"
 description: ""
 category: Blogs
-tags: [web development, junereycasuga, w3schools, w3fools]
+tags: [web development, junerey casuga, w3schools, w3fools]
 ---
 {% include JB/setup %}
 
@@ -17,18 +17,65 @@ To show you some of the inaccurate content published by W3Schools, here are some
 
 #### HTML
 
-[www.w3schools.com/html5/html5_intro.asp](www.w3schools.com/html5/html5_intro.asp)
+[www.w3schools.com/html5/html5_intro.asp](http://www.w3schools.com/html5/html5_intro.asp)
 
 * W3Schools: The latest versions of Safari, Chrome, Firefox, and Opera support some HTML5 features. Internet Explorer 9 will support some HTML5 features.
 
 * W3Fools: This is misleading. Many features that have existed for years in IE are just now being standardized by HTML5, e.g. `contenteditable`. IE8 also already supports `localStorage`, which is an HTML5 feature.
 
-[www.w3schools.com/html/html_getstarted.asp](www.w3schools.com/html/html_getstarted.asp)
+[www.w3schools.com/html/html_getstarted.asp](http://www.w3schools.com/html/html_getstarted.asp)
 
 * W3Schools: [...] professional web developers often prefer HTML editors like FrontPage or Dreamweaver, instead of writing plain text.
 
 * W3Fools: Professional web developers do not recommend the use of WYSIWYG editors.
 
-[www.w3schools.com/html/html_frames.asp](www.w3schools.com/html/html_frames.asp)
+[www.w3schools.com/html/html_frames.asp](http://www.w3schools.com/html/html_frames.asp)
 
-* W3Schools: 
+* W3Fools: Again, frames are considered among the very worst of practices in modern Web development. In fact, they are considered so bad, they are no longer valid in HTML5.
+
+[www.w3schools.com/html/html_getstarted.asp](http://www.w3schools.com/html/html_getstarted.asp)
+
+* W3Schools: When you save an HTML file, you can use either the `.htm` or the `.html` file extension. We use `.htm` in our examples. It is a habit from the past, when the software only allowed three letters in file extensions. With new software it is perfectly safe to use `.html`
+
+* W3Fools: Nitpicking to be sure, but Unix has supported arbitrary 255-character file names since 1983. That is hardly "new software", and illustrates the misunderstanding of basic principles of computing & software design that tends to permeate W3Schools material.
+Extension are not necessary at all and if they are present they don't have to be `.htm` or `.html`. The key thing is that HTML files are served with the correct content-type e.g. `text/html`. (many web servers have some built in or preconfigured knowledge that `.htm` and `.html` should be served with the `text/html` content-type)
+
+[www.w3schools.com/html/html_head.asp](http://www.w3schools.com/html/html_head.asp)
+
+* W3Schools:
+
+		<html>
+			<head>Title of the document</head>
+			<body>
+				content of the document.....
+			</body>
+		</html>
+
+* W3Fools: Their "minimum document example" is missing a DOCTYPE. It also differs from other "minimal document examples" on their site, such as the one on the HTML Introduction page, which is missing a `<head>` entirely.
+
+[www.w3schools.com/tags/tag_hn.asp](http://www.w3schools.com/tags/tag_hn.asp)
+
+* W3Schools: `<h1>` defines the largest heading and `<h6>` defines the smallest heading.
+
+* W3Fools: This is not true. The heading element's number defines their rank for their importance on the page.
+
+#### CSS
+
+[www.w3schools.com/css3/css3_fonts.asp](http://www.w3schools.com/css3/css3_fonts.asp])
+
+* W3Schools: Internet Explorer does not yet support the @font-face rule.
+
+* W3Fools: This is wrong. In fact, Microsoft invented the `@font-face` at-rule.
+
+#### JavaScript
+
+[www.w3schools.com/JS/js_statements.asp](http://www.w3schools.com/JS/js_statements.asp)
+
+* W3Schools: JavaScript code (or just JavaScript) is a sequence of JavaScript statements.
+
+* W3Fools: Apparently declarations and expressions can go right to hell (since JavaScript only is a sequence of statements).
+
+
+* W3Schools: Each statement is executed by the browser in the sequence they are written.
+
+* W3Fools: This is 
