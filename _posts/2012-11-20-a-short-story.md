@@ -2,7 +2,7 @@
 layout: post
 title: "A Short Story"
 description: ""
-category: Blog
+category: Blogs
 tags: [web development, junerey casuga, a short story]
 ---
 {% include JB/setup %}
