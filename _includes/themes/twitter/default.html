@@ -57,9 +57,13 @@
           <!-- Everything you want hidden at 940px or less, place within here -->
           <div class="nav-collapse collapse">
             <ul class="nav">
-              {% assign group = 'navigation' %}
+              <li><a href="/blogs">Blogs</a></li>
+              <li><a href="/projects">Projects</a></li>
+              <li><a href="/archive">Archive</a></li>
+              <li><a href="/about">About</a></li>
+              <!--{% assign group = 'navigation' %}
               {% assign pages_list = site.pages %}
-              {% include JB/pages_list %}
+              {% include JB/pages_list %}-->
             </ul>
 
             <form class="navbar-search pull-right" action="http://google.com/search" method="GET">
