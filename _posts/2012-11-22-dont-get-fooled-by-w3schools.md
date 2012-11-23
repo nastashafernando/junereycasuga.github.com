@@ -108,6 +108,14 @@ Extension are not necessary at all and if they are present they don't have to be
 * W3Fools: In older browsers, placing scripts in the `<head>` has a negative impact on page performance. Until the script is done loading, resources below the script are blocked from downloading, and elements below the script are blocked from rendering. So try to put scripts at the bottom of the page, when possible.
 
 
-What a revelation right? If you want to know some more unreliable content published by W3Schools, just visit W3Fools page at [http://w3fools.com](http://w3fools.com). As W3Fools says, "We believe W3Schools is harmful to the web. Web developers deserve better". I am one with them.
+What a revelation right? If you want to know some more unreliable content published by W3Schools, just [http://w3fools.com](http://w3fools.com).
 
-Lessons learned? If you want to accelerate your education about web development, learn from the fine resources like [WebPlatform.org](http://webplatform.org/), [Opera Web Standards Curriculum](http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc), [Google's HTML, CSS, and Javascript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/), [SitePoint](http://reference.sitepoint.com/), and the [MDN (Mozzilla's Developer Network)](https://developer.mozilla.org/en-US/docs). And to contribute to the community, spread the word. Spread the W3Fools way.
+As the good people at W3Fools say, "We believe W3Schools is harmful to the web. Web developers deserve better".
+
+I wholeheartedly agree because I am one of them. I also believe that sharing bad information is toxic and can lead to more bad information being passed down to future generations of web developers.
+
+The lesson her is obvious: Dont't believe everything you read. Even good doctors misdiagnose. Always ask and look for second or third opinions. Find sources that proved accurate, dependable information.
+
+If you want to accelerate your education about web development, learn from the fine resources like [WebPlatform.org](http://webplatform.org/), [Opera Web Standards Curriculum](http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc), [Google's HTML, CSS, and Javascript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/), [SitePoint](http://reference.sitepoint.com/), and the [MDN (Mozzilla's Developer Network)](https://developer.mozilla.org/en-US/docs).
+
+Also, if you want to contribute to the community, spread the word. Don't bee fooled, instead spread it the W3Fools way.
