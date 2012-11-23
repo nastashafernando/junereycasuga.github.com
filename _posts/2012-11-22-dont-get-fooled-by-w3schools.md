@@ -7,13 +7,15 @@ tags: [web development, junerey casuga, w3schools, w3fools]
 ---
 {% include JB/setup %}
 
-I remember that I always consult W3Schools when I have to know about HTML or Javascript. I’ve used W3Schools as my reference for a long time. Well I’ve been on a wrong place for how many years.
+For years, I've been consulting W3Schools whenever I have to know more about HTML or Javascript. Numerous times, I’ve used them as reference thinking their content was credible.
 
-Recently, I saw W3Fools. [W3Fools](http://w3fools.com) is a website made by the members of the Front-end Dev Community. It has a content where it shows that W3Schools is not a reliable resource when it comes to HTML and Javascript.
+I was wrong.
 
-Now, you’re maybe wondering why W3Schools is a troublesome resource. Well, W3Schools is not affiliated with [W3C (World Wide Web Consortium)](http://www.w3.org/). W3C is an international community that develops open standards to ensure the long-term growth of the Web. And the worst reason why W3Schools is they frequently publishes inaccurate content.
+Recently, while doing research, I came across [W3Fools](http://w3fools.com) – a website made by the members of the Front-end Dev Community. While scrolling through the contents, I suddenly realized that the whole website was dedicated to exposing W3Schools as a "faculty source" of information regarding HTML and JavaScript.
 
-To show you some of the inaccurate content published by W3Schools, here are some list of the misleading content written by the people from W3Fools:
+Now, you might be wondering why W3Schools was deemed unreliable by W3Fools. Well, as it turned out, W3Schools was not in any way affiliated with [W3C(World Wide Web Consortium)](http://w3c.org) - an internation community that develops open standards to ensure the long-term growth of the Web. What's worse, W3Schools blatantly shows disregard for journalistic integrity by frequently publishing inaccurate content.
+
+Here's a list highlighting some of the grossly misleadin content written by the people from W3Schools:
 
 
 #### HTML
