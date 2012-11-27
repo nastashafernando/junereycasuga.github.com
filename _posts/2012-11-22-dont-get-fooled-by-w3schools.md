@@ -11,11 +11,11 @@ For years, I've been consulting W3Schools whenever I have to know more about HTM
 
 I was wrong.
 
-Recently, while doing research, I came across [W3Fools](http://w3fools.com) – a website made by the members of the Front-end Dev Community. While scrolling through the contents, I suddenly realized that the whole website was dedicated to exposing W3Schools as a "faculty source" of information regarding HTML and JavaScript.
+Recently, while doing research, I came across [W3Fools](http://w3fools.com) – a website made by the members of the Front-end Dev Community. While scrolling through the contents, I suddenly realized that the whole website was dedicated to exposing W3Schools as a "faulty source" of information regarding HTML and JavaScript.
 
-Now, you might be wondering why W3Schools was deemed unreliable by W3Fools. Well, as it turned out, W3Schools was not in any way affiliated with [W3C(World Wide Web Consortium)](http://w3c.org) - an internation community that develops open standards to ensure the long-term growth of the Web. What's worse, W3Schools blatantly shows disregard for journalistic integrity by frequently publishing inaccurate content.
+Now, you might be wondering why W3Schools was deemed unreliable by W3Fools. Well, as it turned out, W3Schools was not in any way affiliated with [W3C(World Wide Web Consortium)](http://w3c.org) - an international community that develops open standards to ensure the long-term growth of the Web. What's worse, W3Schools blatantly shows disregard for journalistic integrity by frequently publishing inaccurate content.
 
-Here's a list highlighting some of the grossly misleadin content written by the people from W3Schools:
+Here's a list highlighting some of the grossly misleading content written by the people from W3Schools:
 
 
 #### HTML
@@ -116,7 +116,7 @@ As the good people at W3Fools say, "We believe W3Schools is harmful to the web. 
 
 I wholeheartedly agree because I am one of them. I also believe that sharing bad information is toxic and can lead to more bad information being passed down to future generations of web developers.
 
-The lesson her is obvious: Dont't believe everything you read. Even good doctors misdiagnose. Always ask and look for second or third opinions. Find sources that proved accurate, dependable information.
+The lesson here is obvious: Dont't believe everything you read. Even good doctors misdiagnose. Always ask and look for second or third opinions. Find sources that proved accurate, dependable information.
 
 If you want to accelerate your education about web development, learn from the fine resources like [WebPlatform.org](http://webplatform.org/), [Opera Web Standards Curriculum](http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc), [Google's HTML, CSS, and Javascript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/), [SitePoint](http://reference.sitepoint.com/), and the [MDN (Mozzilla's Developer Network)](https://developer.mozilla.org/en-US/docs).
 
