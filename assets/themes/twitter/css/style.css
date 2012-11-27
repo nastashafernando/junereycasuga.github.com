@@ -96,3 +96,8 @@ footer img:hover {
 	opacity: 0.8;
 	filter:alpha(opacity=80);
 }
+
+::selection {
+	background-color: skyblue;
+	color: white;
+};
