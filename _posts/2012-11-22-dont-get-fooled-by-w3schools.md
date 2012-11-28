@@ -120,4 +120,4 @@ The lesson here is obvious: Dont't believe everything you read. Even good doctor
 
 If you want to accelerate your education about web development, learn from the fine resources like [WebPlatform.org](http://webplatform.org/), [Opera Web Standards Curriculum](http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc), [Google's HTML, CSS, and Javascript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/), [SitePoint](http://reference.sitepoint.com/), and the [MDN (Mozzilla's Developer Network)](https://developer.mozilla.org/en-US/docs).
 
-Also, if you want to contribute to the community, spread the word. Don't bee fooled, instead spread it the W3Fools way.
+Also, if you want to contribute to the community, spread the word. Don't be fooled, instead spread it the W3Fools way.
