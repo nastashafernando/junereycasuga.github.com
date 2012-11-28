@@ -13,7 +13,7 @@ From the description of Jekyll in GitHub, it is a simple, blog-aware, static sit
 
 A lot of people were asking me how I do my blog site. So, I will show you a step-by-step procedure how I made my blog using Jekyll and hosted it through GitHub Pages.
 
-1. Basically, you must have an account on [GitHub](http://github.com) because it is where you want to host your site.
+1. Basically, you must have an account on [GitHub](http://github.com) because it is where you will host your site.
 <img src="/assets/images/github.png" title="GitHub" alt="GitHub" class="img-polaroid" />
 
 2. After creating an account on GitHub, create a new repository and name it as <b>YOURUSERNAME</b>.github.com
