@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Junerey Casuga
-tagline: Web Development
+tagline: 
 ---
 {% include JB/setup %}
 
